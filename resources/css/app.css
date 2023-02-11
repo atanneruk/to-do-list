@@ -1,0 +1,14 @@
+@import 'bootstrap-icons/font/bootstrap-icons';
+
+
+body{background:#eee;font-family:Lato,"Helvetica Neue",Helvetica,Arial,sans-serif;}
+.logo{margin:2rem 0 6rem;}
+.actions{display:flex;}
+.actions .btn{font-weight: bold;padding:0 6px;}
+.actions .btn-success{margin-right:.3rem;}
+.actions .bi{font-size: 2rem;font-weight: bold;}
+.actions .bi:before{font-weight: bold!important;}
+.table.tasks-table {margin-bottom:0;}
+.table.tasks-table .complete {text-decoration-line: line-through;}
+.table.tasks-table tbody th {width:3rem;}
+.footer{margin-top:15rem;}
